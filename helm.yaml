@@ -13,4 +13,3 @@ PARAMETERS: "DOCUMENTDB,roboshop.prod.catalogue.mongo MONGO_URL,roboshop.prod.ca
 
 schemaInitContainer:
   enabled: true
-
